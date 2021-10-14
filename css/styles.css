@@ -1,3 +1,35 @@
 h5 {
   text-align: center;
 }
+
+body {
+  background-color: rgb(195, 215, 252);
+}
+
+.columnL {
+  float: left;
+  width: 19%;
+  padding: 10px;
+  margin-top: .5%;
+  margin-left: .5%;
+  border: solid black;
+  border-width: 20px;
+  background-color: cornflowerblue;
+}
+
+.columnR {
+  float: right;
+  width: 19%;
+  padding: 10px;
+  margin-top: .5%;
+  margin-right: .5%;
+  border: solid black;
+  border-width: 20px;
+  background-color: cornflowerblue;
+}
+
+.newclass {
+  margin-bottom:20%;
+  border: solid black;
+  border-width: 10px;
+}
