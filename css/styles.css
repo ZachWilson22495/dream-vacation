@@ -33,3 +33,12 @@ body {
   border: solid black;
   border-width: 10px;
 }
+
+.package {
+  border: solid lightgoldenrodyellow;
+  border-width: 5px;
+  padding: 5px;
+  background-color: lightsalmon;
+  margin-top: 10.8px;
+  color: #4e331f;
+}
